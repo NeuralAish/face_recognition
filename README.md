@@ -27,4 +27,11 @@ Due to copyright and size, the dataset is not included in this repository.
 You can download it here: https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip
 After downloading, place the dataset in the `dataset/` folder before using the app.
 
+
 Note: No pre-trained model file is included. The model will be created when you train it inside the app.
+
+### Model Trained
+![Model Trained](Screenshot-Model-trained.png)
+
+### Face Recognized
+![Face Recognized](Screenshot-face-recognized.png)
