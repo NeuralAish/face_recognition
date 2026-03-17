@@ -2,7 +2,7 @@
 
 This is a Streamlit-based face recognition project built using Python.
 
-⚠️ This project does NOT run using IDLE or normal Python execution.
+This project does NOT run using IDLE or normal Python execution.
 It must be executed using Streamlit.
 
 ## How to Run
