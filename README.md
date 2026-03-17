@@ -29,7 +29,7 @@ You can download it here: https://github.com/robaita/introduction_to_machine_lea
 After downloading, place the dataset in the 'dataset/' folder before using the app.
 
 
-Note: No pre-trained model file is included. The model will be created when you train it inside the app.
+
 
 ### Model Trained
 ![Model Trained](Screenshot-Model-trained.png)
