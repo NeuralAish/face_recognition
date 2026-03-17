@@ -16,6 +16,10 @@ It must be executed using Streamlit.
 ## Note
 
 
+This project trains the model dynamically.  
+Click the **Train Model** button in the app to generate the model.  
+No pre-trained model file is included.
+
 ## Dataset
 
 This project uses a publicly available face dataset.  
