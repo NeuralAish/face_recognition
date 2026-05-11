@@ -1,5 +1,5 @@
 # Face Recognition using Streamlit
-aaaaaaaaaa
+
 # ✋ Real-Time Hand Gesture and Finger Counter
 
 This project does NOT run using IDLE or normal Python execution.
