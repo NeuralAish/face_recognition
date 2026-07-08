@@ -1,7 +1,6 @@
 # Face Recognition using Streamlit
 
-This project does NOT run using IDLE or normal Python execution.
-It must be executed using Streamlit.
+Execute using Streamlit.
 
 ## How to Run
 
